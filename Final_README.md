@@ -84,6 +84,5 @@ sudo ./engine run alpha ./rootfs-alpha "/memory_hog"
 
 
 
-<img width="645" height="96" alt="image" src="https://github.com/user-attachments/assets/fd15c51c-bb14-47a2-82a2-7726a238099a" />
-<img width="642" height="157" alt="image" src="https://github.com/user-attachments/assets/7a8f191f-a098-4338-83d9-adbb7c51ddb5" />
+<img width="645" height="96" alt="image" src="https://github.com/user-attachments/assets/fd15c51c-bb14-47a2-82a2-7726a238099a" />  <img width="642" height="157" alt="image" src="https://github.com/user-attachments/assets/7a8f191f-a098-4338-83d9-adbb7c51ddb5" />
 
