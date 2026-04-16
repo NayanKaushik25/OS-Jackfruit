@@ -90,5 +90,6 @@ sudo ./engine run alpha ./rootfs-alpha "/memory_hog"
 
 ### Screenshot 2 - Metadata tracking
 
+<img width="1310" height="134" alt="image" src="https://github.com/user-attachments/assets/bf3bdd9e-53e6-4b59-a8d0-f3321475514c" />
 
 
