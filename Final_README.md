@@ -7,7 +7,7 @@
 | Name | SRN |
 |------|-----|
 | Nayan Niranjana Kaushik | PES1UG24CS294 |
-| Nihar Sureshwar Oak | PES1UG25CS299 |
+| Nihar Sureshwar Oak | PES1UG24CS299 |
 
 ---
 
